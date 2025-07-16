@@ -11,7 +11,7 @@
   <ul>
     <li>Developed a <strong>machine learning-based wildfire prediction system</strong> using meteorological data from the <em>UCI Algerian Forest Fires dataset</em>.</li>
     <li>The system helps in <strong>early detection of wildfires</strong> by analyzing temperature, rainfall, wind speed, and relative humidity.</li>
-    <li>Built as part of the <strong>B.Tech Data Science final year project</strong> under the Department of CB, DS & AIML at Bapatla Engineering College.</li>
+    <li>Built as part of the <strong>B.Tech Data Science final year project</strong> at Bapatla Engineering College.</li>
   </ul>
 
   <h2>🎯 Objectives</h2>
@@ -107,6 +107,15 @@
   </ul>
 
   <h2>📷 Screenshots</h2>
+
+  <p>🌐 Web Interface</p>
+  <img src="images/result1.png" alt="Web App Interface" width="400" />
+
+  <p>🌲 Forest is Safe Condition</p>
+  <img src="images/result2.png" alt="Forest is Safe" width="400" />
+
+  <p>🔥 Forest is Not Safe Condition</p>
+  <img src="images/result3.png" alt="Forest is Not Safe" width="400" />
   
 
   <h2>📚 References</h2>
