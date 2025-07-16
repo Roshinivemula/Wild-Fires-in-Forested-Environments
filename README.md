@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Wildfire Prediction Project</title>
 </head>
 <body style="font-family:Arial, sans-serif; line-height:1.6; color:#333; padding:20px; max-width:800px; margin:auto;">
 
