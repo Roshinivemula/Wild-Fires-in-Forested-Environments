@@ -108,7 +108,7 @@
   </ul>
 
   <h2>📷 Screenshots</h2>
-  <p>📌 (Add UI images, confusion matrix plots, or charts here)</p>
+  
 
   <h2>📚 References</h2>
   <ul>
