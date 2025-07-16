@@ -118,11 +118,5 @@
   <img src="images/result3.png" alt="Forest is Not Safe" width="400" />
   
 
-  <h2>📚 References</h2>
-  <ul>
-    <li><a href="https://archive.ics.uci.edu/" target="_blank">Algerian Forest Fires UCI Dataset</a></li>
-    <li>Referenced multiple research papers (included in project documentation)</li>
-  </ul>
-
 </body>
 </html>
